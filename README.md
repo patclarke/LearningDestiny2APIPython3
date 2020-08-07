@@ -16,6 +16,7 @@ NOTE: If you have not signed into bungie.net do that first or this link will not
 ## First Python Script
 Copy this script
 https://github.com/patclarke/LearningDestiny2APIPython3/blob/master/examples/01_gjallarhorn_example.py
+
 On line 12 we will edit the section that says YOUR_API_KEY_HERE. Replace that text with the key you recived in the step above.
 
 Now run the script and you should see 
