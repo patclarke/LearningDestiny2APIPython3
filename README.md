@@ -2,7 +2,7 @@
 Learning how to use Destiny 2 API with Python3
 
 # Getting Srtarted
-## Helpfull Resources 
+## Helpful Resources 
 http://destinydevs.github.io/BungieNetPlatform/docs/Getting-Started
 http://destinydevs.github.io/BungieNetPlatform/docs/Manifest
 https://bungie-net.github.io/
@@ -13,3 +13,14 @@ https://www.bungie.net/en/Application
 NOTE: If you have not signed into bungie.net do that first or this link will not redirect you to the right place
 
 
+## First Python Script
+Copy this script
+https://github.com/patclarke/LearningDestiny2APIPython3/blob/master/examples/01_gjallarhorn_example.py
+On line 12 we will edit the section that says YOUR_API_KEY_HERE. Replace that text with the key you recived in the step above.
+
+Now run the script and you should see 
+"Gjallarhorn"
+
+Congradulations you have made your first Python API call.
+
+## Second Python Script
