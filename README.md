@@ -41,4 +41,9 @@ Try changing the last line to
 
 <pre><code> print(response['Response']['characterEquipment']['data']) </code></pre>
 
+## Fourth Python Script
+Copy this script
+https://github.com/patclarke/LearningDestiny2APIPython3/blob/master/examples/04_Manifest_example.py
+
+
 
