@@ -29,8 +29,12 @@ Congradulations you have made your first Python API call.
 Copy this script 
 https://github.com/patclarke/LearningDestiny2APIPython3/blob/master/examples/02_SearchDestinyPlayer_example
 
-Whith this script we are trying to obtain the users "destinyMembershipId". We will use the destinyMembershipId to be able to pull more details about the users charactors.
+Whith this script we are obtaining the users "destinyMembershipId". We will use the destinyMembershipId to be able to pull more details about the users charactors.
 
 ## Third Python Script
+Copy this script 
+https://github.com/patclarke/LearningDestiny2APIPython3/blob/master/examples/03_GetProfile_example.py
+
+With this script we are obtaining the users "CharacterEquipment". We will need to decoded the response as all gear will be hashed.
 
 
