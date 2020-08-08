@@ -17,7 +17,7 @@ NOTE: If you have not signed into bungie.net do that first or this link will not
 Copy this script
 https://github.com/patclarke/LearningDestiny2APIPython3/blob/master/examples/01_gjallarhorn_example.py
 
-On line 12 we will edit the section that says YOUR_API_KEY_HERE. Replace that text with the key you recived in the step above.
+On line 12 we will edit the section that says YOUR_API_KEY_HERE. Replace that text with the key you recived in the step above. For now on we will skip mentioning this step but it will be required on all scripts downloaded from this repo.
 
 Now run the script and you should see 
 "Gjallarhorn"
@@ -25,3 +25,11 @@ Now run the script and you should see
 Congradulations you have made your first Python API call.
 
 ## Second Python Script
+Copy this script 
+https://github.com/patclarke/LearningDestiny2APIPython3/blob/master/examples/02_SearchDestinyPlayer_example
+
+Whith this script we are trying to obtain the users "destinyMembershipId". We will use the destinyMembershipId to be able to pull more details about the users charactors.
+
+## Third Python Script
+
+
