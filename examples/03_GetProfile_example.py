@@ -19,5 +19,5 @@ HEADERS = {"X-API-Key":'YOUR_API_KEY_HERE'}
 # for this example we are ussing components 205 "CharacterEquipment" to get a list of equiped items
 r = requests.get("https://www.bungie.net/Platform/Destiny2/3/Profile/4611686018467446894/?components=205", headers=HEADERS);
 
-inventoryItem = r.json()
-print(inventoryItem)
+response = r.json()
+print(response)
