@@ -38,6 +38,7 @@ https://github.com/patclarke/LearningDestiny2APIPython3/blob/master/examples/03_
 With this script we are obtaining the users "CharacterEquipment". We will need to decoded the response as all gear will be hashed.
 
 Try changing the last line to 
-<code> print(response['Response']['characterEquipment']['data']) </code>
+
+<pre><code> print(response['Response']['characterEquipment']['data']) </code></pre>
 
 
