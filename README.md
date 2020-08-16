@@ -7,6 +7,7 @@ Learning how to use Destiny 2 API with Python3
 * http://destinydevs.github.io/BungieNetPlatform/docs/Manifest
 * https://bungie-net.github.io/
 * https://bungie-net.github.io/multi/schema_Destiny-DestinyComponentType.html
+* https://github.com/vpzed/Destiny2-API-Info/wiki/API-Introduction-Part-3-Manifest
 
 ## Before You Begin
 The first thing you will need to do is get an API key from bungie. This key will be used in all of our test scripts. Think of it like a password that allows you to use the Destiny API. You get your API key from: 
